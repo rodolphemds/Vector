@@ -8,3 +8,6 @@
 [submodule "available-anki-vector-documentation"]
 	path = available-anki-vector-documentation
 	url = https://github.com/rodolphemds/available-anki-vector-documentation.git
+[submodule "vectorOS-websetup"]
+	path = vectorOS-websetup
+	url = https://github.com/rodolphemds/vector-websetup.git
