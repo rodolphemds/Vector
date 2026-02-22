@@ -5,3 +5,6 @@
 [submodule "vector-wirepod-python-sdk"]
 	path = vector-wirepod-python-sdk
 	url = https://github.com/rodolphemds/vector-wirepod-python-sdk.git
+[submodule "available-anki-vector-documentation"]
+	path = available-anki-vector-documentation
+	url = https://github.com/rodolphemds/available-anki-vector-documentation.git
