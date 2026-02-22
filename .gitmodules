@@ -1,0 +1,7 @@
+[submodule "wire-pod"]
+	path = wire-pod
+	url = https://github.com/rodolphemds/wire-pod.git
+	branch = personal
+[submodule "vector-wirepod-python-sdk"]
+	path = vector-wirepod-python-sdk
+	url = https://github.com/rodolphemds/vector-wirepod-python-sdk.git
