@@ -11,12 +11,6 @@
 [submodule "vector-websetup"]
 	path = vector-websetup
 	url = https://github.com/rodolphemds/vector-websetup.git
-[submodule "vectorOS-anki"]
-	path = vectorOS-anki
-	url = https://github.com/rodolphemds/vectorOS-anki.git
 [submodule "vectorOS"]
 	path = vectorOS
 	url = https://github.com/rodolphemds/vectorOS.git
-[submodule "vectorOS-externals"]
-	path = vectorOS-externals
-	url = https://github.com/rodolphemds/vectorOS-externals.git
