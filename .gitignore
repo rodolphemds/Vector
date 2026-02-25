@@ -8,6 +8,10 @@
 Archives/
 Sauvegardes/
 
+# macOS system files
+.DS_Store
+**/.DS_Store
+
 # User-specific files
 *.rsuser
 *.suo
