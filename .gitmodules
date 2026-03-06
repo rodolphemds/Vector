@@ -15,5 +15,5 @@
 	path = vectorOS
 	url = https://github.com/rodolphemds/vectorOS.git
 [submodule "vector-docker-ros2"]
-	path = vector-ros2
+	path = vector-docker-ros2
 	url = https://github.com/rodolphemds/vector-docker-ros2.git
