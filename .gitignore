@@ -4,6 +4,9 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 ## Edited to also ignore files related to my work on Vector I don't want to be tracked and pulled to GitHub.
 
+# vectorOS image disk 
+vectorOS.dmg
+
 # Personal files and scripts
 
 
