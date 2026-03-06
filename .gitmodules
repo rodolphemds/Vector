@@ -1,19 +1,16 @@
 [submodule "wire-pod"]
-	path = wire-pod
-	url = https://github.com/rodolphemds/wire-pod.git
-	branch = personal
+    path = wire-pod
+    url = https://github.com/rodolphemds/wire-pod.git
+    branch = personal
 [submodule "vector-wirepod-python-sdk"]
-	path = vector-wirepod-python-sdk
-	url = https://github.com/rodolphemds/vector-wirepod-python-sdk.git
+    path = vector-wirepod-python-sdk
+    url = https://github.com/rodolphemds/vector-wirepod-python-sdk.git
 [submodule "available-anki-vector-documentation"]
-	path = available-anki-vector-documentation
-	url = https://github.com/rodolphemds/available-anki-vector-documentation.git
+    path = available-anki-vector-documentation
+    url = https://github.com/rodolphemds/available-anki-vector-documentation.git
 [submodule "vector-websetup"]
-	path = vector-websetup
-	url = https://github.com/rodolphemds/vector-websetup.git
-[submodule "vectorOS"]
-	path = vectorOS
-	url = https://github.com/rodolphemds/vectorOS.git
+    path = vector-websetup
+    url = https://github.com/rodolphemds/vector-websetup.git
 [submodule "vector-docker-ros2"]
-	path = vector-docker-ros2
-	url = https://github.com/rodolphemds/vector-docker-ros2.git
+    path = vector-docker-ros2
+    url = https://github.com/rodolphemds/vector-docker-ros2.git
