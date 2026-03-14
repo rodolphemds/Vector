@@ -1,0 +1,6 @@
+# Scripts du dossier scripts
+
+| Fichier | Description | Emplacement |
+| --- | --- | --- |
+| README | Documentation des scripts présents dans ce dossier. | /Users/rodolphe/Documents/Vector/scripts/README |
+| updateEscapePodIP.sh | Résout l'adresse IP de l'EscapePod, met à jour le ficher /etc/hosts du robot pour escapepod.local et exporte la variable ESCAPEPOD_IP. | On Vector : /usr/local/bin |
